@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sample-package-bult-in",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AZPedro/sample-package-bult-in.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e86c930499a14cac0cbf46ebf97a6ecec45ba67d"
+      }
+    }
+  ],
+  "version" : 2
+}
